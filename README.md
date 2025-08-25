@@ -54,5 +54,6 @@ cd frontend
 npm install
 npm start
 
+  adminEmail = "admin@plants.com";
+     adminPassword = "admin123";
 
-## 📂 Project Structure
